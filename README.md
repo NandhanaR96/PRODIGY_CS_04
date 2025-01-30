@@ -21,6 +21,10 @@ This project is a simple keylogger program that records and logs keystrokes. The
 
 WARNING: This keylogger is intended for educational purposes only. It is essential to obtain explicit permission from any user before logging their keystrokes. Unauthorized use of keyloggers can violate privacy rights and lead to legal action. Always use this program responsibly and ethically.
 
+## Sample Output
+
+![KEYLOG](https://github.com/user-attachments/assets/2605097a-999b-4196-b0cb-67d9d78f922d)
+
 ### Contact
 
 For any questions or feedback, please reach out to nnandhana96@gmail.com .
